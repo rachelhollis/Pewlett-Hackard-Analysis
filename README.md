@@ -43,4 +43,6 @@ A mentorship program can help alleviate the pressure of training and preparing n
 
 Additional queries could help further the analysis:
 - Run a query on the Salaries of retirement eligible employees: 
-  - this could be useful when determining budget for new hires
+  - This could be useful when determining budget for new hires/ promotions
+- Run a query on the average number of promotions (job title changes) retirement eligible employees and previous employees have recieved in comparison to their job titles
+  - This could provide insight into whether promoting from within the company has been successful in the past for certain job titles. 
