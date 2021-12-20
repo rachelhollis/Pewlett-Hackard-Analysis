@@ -41,7 +41,7 @@ There are roughly 90,000 employees that are soon to retire. This will most defin
 
 A mentorship program can help alleviate the pressure of training and preparing new hires/ teams in the company. There are roughly 1,550 eligible employees for the mentorship program. A significant number of these individuals hold specialized/ senior job titles. There appears to be qualified, retirement ready eligible mentors. However, not all eligible employees will join the mentorship program. If all eligible employees did join the program, they could potentionally have 90,000 new employees to mentor. That is roughly 58 employees to one mentor. A mentorship program alone might not be enough to handle the potentional influx of new employees. 
 
-Additional queries could help further the analysis:
+Additional queries that could help further the analysis:
 - Run a query on the Salaries of retirement eligible employees: 
   - This could be useful when determining budget for new hires/ promotions
 - Run a query on the average number of promotions (job title changes) retirement eligible employees and previous employees have recieved in comparison to their job titles
