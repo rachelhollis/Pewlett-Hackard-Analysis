@@ -39,6 +39,8 @@ From this information, there are a few takeaways:
 
 There are roughly 90,000 employees that are soon to retire. This will most definitely cause a 'silver tsunami' throughout the company. These roles will either be consolidated with other roles or replaced with new hires/ promotions within the company. Keep in mind, promoting within the company will leave behind a job position in the previous department that will most likely need to be filled and consolidating roles is not a solution for most senior job positions. Without this analysis of retiring employees, the mass exodus could potentionally have shocked the company as a whole with catastrophic consequences. However, knowing the retirement eligibile employees allows the company to prepare and start hiring before the metaphorical tsunami hits. 
 
-A mentorship program can help alleviate the pressure of training and preparing new hires/ teams in the company. There are roughly 1,550 eligible employees for the mentorship program. A significant number of these individuals hold specialized/ senior job titles. There appears to be enough qualified, retirement ready eligible mentors. However, not all eligible employees will join the mentorship program. 
+A mentorship program can help alleviate the pressure of training and preparing new hires/ teams in the company. There are roughly 1,550 eligible employees for the mentorship program. A significant number of these individuals hold specialized/ senior job titles. There appears to be qualified, retirement ready eligible mentors. However, not all eligible employees will join the mentorship program. If all eligible employees did join the program, they could potentionally have 90,000 new employees to mentor. That is roughly 58 employees to one mentor. A mentorship program alone might not be enough to handle the potentional influx of new employees. 
 
-
+Additional queries could help further the analysis:
+- Run a query on the Salaries of retirement eligible employees: 
+  - this could be useful when determining budget for new hires
